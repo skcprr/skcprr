@@ -2,17 +2,13 @@
 
 
  ## 💡 About me
-I'm a Nanoengineering graduate with a strong curiosity for how the principles of **quantum mechanics** can be applied to **information processing** and **computation**. My current focus is on developing both the **theoretical understanding** and **practical programming skills** needed to explore and build in the field of **quantum technologies**.
 
----
+I am a Physics graduate and current Computer Science student passionate about solving complex problems.
 
-## 🌱 I’m currently learning 
-- ⚛ **Quantum information theory & quantum computation** - exploring qubits, quantum gates, algorithms, and error correction
-- 🐍 **Python** for scientific computing and quantum programming (**NumPy**, **Matplotlib**, **Qiskit**)
-- 📊 **Data visualization** - from Bloch sphere represenations to interactive plots
-- 💻 **Computer science fundamentals** - algorithms, data structures, and computational complexity
+- **🌱 Currently learning:** Quantum Machine Learning 
+- **⚡ Areas of interest:** Machine Learning, Neural Networks and Quantum Information
 
----
+
 
 <!-- ## 📫 How to Reach Me -->
 
